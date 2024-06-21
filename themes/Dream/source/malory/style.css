@@ -328,7 +328,7 @@ footer .inner {
 	font-size: 28px;
 }
 .inverse-wrapper {
-    background: #1e1e1e url(style/images/bg2.png) repeat;
+    background: #1e1e1e url(/images/bg2.png) repeat;
     color: #cdcdcd;
     position: relative;
 }
