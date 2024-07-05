@@ -796,16 +796,10 @@ ul.tag-list li {
 #top .left-menu ul li,
 #top .right-menu ul li {
 	display: inline-block;
-	margin: 0px;
-	padding: 0px;
 }
 
 #top .left-menu ul li {
 	margin-right: 0px;
-}
-
-#top .right-menu ul li {
-	margin-left: 0px;
 }
 
 #top a {
