@@ -185,9 +185,10 @@ blockquote p {
 	letter-spacing: normal;
 }
 .page-title h1 {
-    font-size: 40px;
-    line-height: 45px;
+    font-size: 100px;
+    line-height: 100px;
     margin-bottom: 15px;
+    font-family: 'AaJianHaoTi';
 }
 h1 {
     font-size: 26px;
